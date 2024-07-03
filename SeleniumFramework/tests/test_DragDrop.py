@@ -2,7 +2,6 @@ import unittest
 import pytest
 import time
 from SeleniumFramework.pages.DragAndDrop import DragAndDrop
-from SeleniumFramework.base.BasePage import BaseClass
 
 
 @pytest.mark.usefixtures("beforeClass", "beforeMethod")

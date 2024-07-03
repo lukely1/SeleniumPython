@@ -1,0 +1,341 @@
+12/06/24 08:57:06 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+12/06/24 08:58:58 PM Wednesday - BaseClass - INFO : Web Page not Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+12/06/24 08:59:43 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+12/06/24 08:59:53 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : WebElement found with locator value Form using locatorType link
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Form using locatorType link
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : WebElement found with locator value name using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value name using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : WebElement found with locator value email using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : Sent the text abc@gmail.com in WebElement with locator value email using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : WebElement found with locator value message using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : Sent the text This is a Code2Lead in WebElement with locator value message using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : WebElement found with locator value captcha_image using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : WebElement found with locator value captcha using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+12/06/24 08:59:55 PM Wednesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+12/06/24 08:59:56 PM Wednesday - BaseClass - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+12/06/24 08:59:56 PM Wednesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+12/06/24 08:59:56 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value btnContactUs using locatorType id
+12/06/24 08:59:56 PM Wednesday - BaseClass - INFO : WebElement found with locator value Form using locatorType link
+12/06/24 08:59:56 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Form using locatorType link
+12/06/24 08:59:56 PM Wednesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+12/06/24 08:59:56 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+12/06/24 09:01:54 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+12/06/24 09:01:58 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+12/06/24 09:02:00 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 09:02:04 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 09:02:05 PM Wednesday - BaseClass - ERROR : WebElement not found with locator value Windows using locatorType link
+12/06/24 09:02:05 PM Wednesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Windows using locatorType link
+12/06/24 09:03:50 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+12/06/24 09:04:55 PM Wednesday - BaseClass - INFO : Web Page not Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+12/06/24 09:05:02 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+12/06/24 09:05:12 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+12/06/24 09:05:15 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 09:05:20 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 09:05:21 PM Wednesday - BaseClass - ERROR : WebElement not found with locator value Windows using locatorType link
+12/06/24 09:05:21 PM Wednesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Windows using locatorType link
+12/06/24 10:00:15 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+12/06/24 10:00:19 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+12/06/24 10:00:21 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 10:00:22 PM Wednesday - BaseClass - INFO : WebElement found with locator value Frame using locatorType link
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Frame using locatorType link
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value section-body using locatorType class
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : WebElement found with locator value promtalert using locatorType name
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value promtalert using locatorType name
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : WebElement found with locator value Windows using locatorType link
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Windows using locatorType link
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : WebElement found with locator value section-body using locatorType class
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : Got the text Click the below button to show the alert box.
+Alert Promt Alert Confirm Alert from WebElement with locator value section-body using locatorType class
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : WebElement found with locator value //*[@id='app']/div/div[3]/section/div[2]/div/form/input[1] using locatorType xpath
+12/06/24 10:00:23 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value //*[@id='app']/div/div[3]/section/div[2]/div/form/input[1] using locatorType xpath
+19/06/24 08:20:01 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 08:20:03 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 08:20:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value Actions using locatorType link
+19/06/24 08:20:05 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Actions using locatorType link
+19/06/24 08:20:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value user_input using locatorType id
+19/06/24 08:20:05 PM Wednesday - BaseClass - INFO : Sent the text test in WebElement with locator value user_input using locatorType id
+19/06/24 08:20:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value submitbutton using locatorType id
+19/06/24 08:20:05 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value submitbutton using locatorType id
+19/06/24 08:51:26 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 08:51:28 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 08:51:30 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 08:51:30 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 08:51:30 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 08:51:31 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:06:27 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:06:29 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:06:31 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:06:31 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:06:32 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:06:32 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:06:59 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:07:01 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:07:03 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:07:03 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:07:03 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:07:03 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:08:55 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:08:56 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:08:58 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:08:59 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:08:59 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:08:59 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:10:01 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:10:03 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:10:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:10:06 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:10:06 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:10:06 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:11:30 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:11:33 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:11:35 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:11:35 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:11:35 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:11:35 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:13:01 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:13:02 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:13:04 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:13:05 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:13:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:13:05 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:14:01 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:14:03 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:14:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:14:05 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:14:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:14:05 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:15:26 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:15:28 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:15:30 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:15:30 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:15:30 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:15:31 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:23:33 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:23:35 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:23:37 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:23:38 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:23:38 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:23:38 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:27:01 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:27:03 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:27:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:27:05 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:27:05 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:27:05 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+19/06/24 09:28:55 PM Wednesday - WebDriverClass - INFO : Chrome Driver is initializing
+19/06/24 09:28:57 PM Wednesday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+19/06/24 09:28:59 PM Wednesday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+19/06/24 09:29:00 PM Wednesday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+19/06/24 09:29:00 PM Wednesday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+19/06/24 09:29:00 PM Wednesday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:08:01 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:08:02 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:08:04 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:08:05 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:08:05 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:08:05 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:09:17 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:09:18 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:09:20 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:09:20 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:09:20 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:09:20 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:30:30 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:30:32 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:30:34 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:30:34 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:30:34 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:30:34 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:31:29 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:31:31 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:31:33 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:31:33 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:31:33 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:31:33 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:32:44 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:32:46 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:32:48 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:32:48 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:32:48 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:32:48 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:46:33 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:46:34 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:46:36 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:46:37 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:46:37 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:46:37 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:48:21 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:48:23 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:48:25 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:48:25 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:48:25 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:48:25 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:50:31 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:50:33 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:50:35 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:50:35 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:50:35 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:50:35 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:53:14 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:53:15 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:53:17 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:53:18 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:53:18 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:53:18 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:55:25 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:55:27 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:55:29 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:55:29 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:55:29 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:55:29 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:56:18 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:56:20 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:56:22 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:56:22 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:56:22 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:56:22 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 08:59:54 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 08:59:55 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 08:59:57 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 08:59:57 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 08:59:57 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 08:59:58 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:08:33 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:08:56 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:08:58 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:08:59 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:08:59 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:08:59 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:12:15 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:12:17 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:12:19 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:12:19 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:12:19 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:12:19 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:14:00 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:14:02 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:14:04 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:14:04 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:14:04 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:14:04 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:22:11 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:22:13 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:22:15 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:22:15 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:22:15 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:22:15 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:41:59 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:42:01 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:42:03 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:42:03 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:42:03 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:42:03 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:51:20 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:51:22 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:51:24 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:51:24 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:51:24 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:51:24 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:51:57 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:51:59 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:52:02 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:52:02 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:52:02 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:52:02 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:52:39 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:52:41 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:52:43 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:52:43 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:52:43 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:52:43 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:53:23 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:53:25 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:53:27 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:53:27 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:53:27 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:53:27 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:54:20 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:54:22 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:54:24 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:54:24 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:54:24 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:54:24 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:54:59 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:55:01 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:55:03 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:55:03 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:55:03 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:55:03 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class
+20/06/24 09:55:50 PM Thursday - WebDriverClass - INFO : Chrome Driver is initializing
+20/06/24 09:55:52 PM Thursday - BaseClass - INFO : Web Page Launched with URL : http://www.dummypoint.com/seleniumtemplate.html
+20/06/24 09:55:54 PM Thursday - BaseClass - INFO : WebElement found with locator value Tables using locatorType link
+20/06/24 09:55:54 PM Thursday - BaseClass - INFO : Clicked on WebElement with locator value Tables using locatorType link
+20/06/24 09:55:54 PM Thursday - BaseClass - INFO : WebElement found with locator value card-title using locatorType class
+20/06/24 09:55:54 PM Thursday - BaseClass - INFO : WebElement is Displayed on web page with locator value card-title using locatorType class

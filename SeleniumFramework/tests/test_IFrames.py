@@ -2,7 +2,7 @@ import unittest
 import pytest
 import time
 from SeleniumFramework.pages.FramePage import Frame
-
+from SeleniumFramework.base.BasePage import BaseClass
 
 @pytest.mark.usefixtures("beforeClass", "beforeMethod")
 class IFrames(unittest.TestCase):
